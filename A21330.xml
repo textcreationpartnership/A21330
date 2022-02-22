@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the newe la[n]des and of ye people founde by the messengers of the kynge of porty[n]gale named Emanuel Of the. x. dyuers nacyons crystened. Of pope Iohn̄ and his landes, and of the costely keyes and wonders molodyes that in that lande is.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1520</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21330</idno>
+            <idno type="STC">STC 7677</idno>
+            <idno type="STC">ESTC S106440</idno>
+            <idno type="EEBO-CITATION">99842156</idno>
+            <idno type="PROQUEST">99842156</idno>
+            <idno type="VID">6786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 38:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the newe la[n]des and of ye people founde by the messengers of the kynge of porty[n]gale named Emanuel Of the. x. dyuers nacyons crystened. Of pope Iohn̄ and his landes, and of the costely keyes and wonders molodyes that in that lande is.</title>
+               </titleStmt>
+               <extent>[48] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Emprenteth by me Iohn̄ of Doesborowe,</publisher>
+                  <pubPlace>[[Antwerp] :</pubPlace>
+                  <date>[1520?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation from various sources.</note>
+                  <note>Contains the putative first appearance of the name "America" in a book in English, p. A2r.</note>
+                  <note>Printer's name from colophon; publication date conjectured by STC.</note>
+                  <note>Signatures: A⁶ B⁴ C⁴ D⁶ E⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Voyages and travels.</term>
+               <term>Prester John (Legendary character) --  Early works to 1800.</term>
+               <term>America --  Discovery and exploration --  Portuguese --  Early works to 1800.</term>
+               <term>America --  Name --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:6786:1"/>
+            <pb facs="tcp:6786:1"/>
+            <p>¶ Of the newe la<g ref="char:cmbAbbrStroke">̄</g>des and of y<hi rend="sup">e</hi> people founde by the meſſengers of the kyn<g ref="char:EOLunhyphen"/>ge of porty<g ref="char:cmbAbbrStroke">̄</g>gale named Emanuel.</p>
+            <p>Of the .x. dyuers nacyons cryſtened.</p>
+            <p>Of pope Iohn<g ref="char:cmbAbbrStroke">̄</g> and his landes and of the coſtely keyes and wonders molo<g ref="char:EOLunhyphen"/>dyes that in that lande is.</p>
+            <figure/>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:6786:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:2"/>
+            <p>
+               <figure/>HEre a forety<g ref="char:EOLunhyphen"/>mes in the yere of our Lorde god. M.CCC.C.xcvi. &amp; ſo be we with ſhyppes of Luſſeboene ſayled oute of Portyn<g ref="char:EOLhyphen"/>gale thorough the co<g ref="char:cmbAbbrStroke">̄</g>maundeme<g ref="char:cmbAbbrStroke">̄</g>t of the Kynge Emanuel So haue we had our vyage / For by fortune ylandes ouer the great ſee with great charge and dau<g ref="char:cmbAbbrStroke">̄</g>ger ſo haue we at the laſte fou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>de oon lordſhyp where we ſayled well .ix.C. my lee by the cooſte of Selandes there we at y<hi rend="sup">e</hi> laſte went a lande but that la<g ref="char:cmbAbbrStroke">̄</g>de is not nowe knowe<g ref="char:cmbAbbrStroke">̄</g> for there haue no maſters wryten therof nor it knowethe and it is named Armenica / there we ſawe meny wo<g ref="char:cmbAbbrStroke">̄</g>ders of beeſtes and fowles y<hi rend="sup">t</hi> we haue neuer ſeen before / the people of this lande haue no kynge nor lorde nor theyr god But all thinges is comune / this people goeth all naked But the men and women haue on theyr heed necke / Armes / Knees / and fete all with feders
+<pb facs="tcp:6786:3"/> bou<g ref="char:cmbAbbrStroke">̄</g>den for there bewtynes &amp; fayrenes. Theſe folke lyuen lyke beſtes without any reſonable<g ref="char:EOLunhyphen"/>nes and the wymen be alſo as comon. And the men hath conuerſacyon with the wymen / who that they ben or who they fyrſt mete / is ſhe his ſyſter his moder / his daughter / or any other ky<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>red. And the wymen be very hoote and dyſpo<g ref="char:EOLhyphen"/>ſed to lecherdnes. And they ete alſo on a nother The man etethe his wyfe his chylderne / as we alſo haue ſeen and they hange alſo the bodyes or perſons fleeſhe in the ſmoke / as men do with vs ſwynes fleſhe. And that lande is ryght full of folke / for they lyue comonly .iij.C. yere &amp; mo<g ref="char:EOLhyphen"/>re as w<hi rend="sup">t</hi> ſykeneſſe they dye nat / they take much fyſſhe for they can goen vnder the water and fe<g ref="char:EOLunhyphen"/>che ſo the fyſſhes out of the water. &amp; they werre alſo on vpon a nother / for the olde men brynge the yonge men therto / that they gather a great company therto of towe partyes / and comethe on ayene the other to the felde or bateyll / &amp; ſlee on the other with great hepes. And howe holde<g ref="char:EOLunhyphen"/>th the fylde / they take the other pryſoners<g ref="char:punc">▪</g> And they brynge them to deth and ete them / and as the deed is eten then ſley they the reſt And they been than eten alſo / or otherwyſe lyue they lon<g ref="char:EOLunhyphen"/>ger tymes &amp; many yeres more than other peo<g ref="char:EOLhyphen"/>ple for they haue coſtely ſpyces &amp; rotes / where they them ſelfe recouer with / and hele them as they be ſeke.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:3"/>
+            <head>
+               <figure>
+                  <head>GENNEA</head>
+               </figure>Of the blacke Mores</head>
+            <p>AL the fyrſte cam we in the lande of Cana<g ref="char:EOLunhyphen"/>rien / whyche is .C. &amp; .l. myles from Lyſſe<g ref="char:EOLunhyphen"/>bone. And ther betwyn been .ij. ylandes. In y<hi rend="sup">t</hi> one is well made people and men make there moche cheeſe of great wylde gootes. alſo is ther fiſſhe and ſuykere good cheep. That other yla<g ref="char:cmbAbbrStroke">̄</g>d is not enhabite ther be lytell people therin / and they be all a frayde and wylde / alſo ther ayeen lyeth the lande of Barbera / and is from them in to y<hi rend="sup">e</hi> Gennea .CC.l. myles. &amp; that is the blac<g ref="char:EOLunhyphen"/>kes mores land. and ayen y<hi rend="sup">e</hi> begynnyg of this lande is oon aforemo<g ref="char:cmbAbbrStroke">̄</g>tayen and hooth caput vi ride / and there by is y<hi rend="sup">e</hi> towne Bitſagitſch .v.C.
+<pb facs="tcp:6786:4"/> myles from Luſſebonen there by be many wa<g ref="char:EOLunhyphen"/>lefyſſhes and flyinge fyſſhes on the on ſyde of Biſagitſche .ij.C. &amp; .l. myles ſayle men vnder y<hi rend="sup">e</hi> ſone ſo ferre / that men the northe ſayle ſterre or pollumarticum / or the waghen called / no more may be ſeen / but pollum ante articum or y<hi rend="sup">t</hi> ſow<g ref="char:EOLunhyphen"/>th layd ſterre ſawe we fourth with the forſayde More lande is .M.iiij.C. myles great / there y<hi rend="sup">e</hi> people goeth all naked with golden rynges on handes and fete.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:4"/>
+            <p>
+               <figure>
+                  <head>IN-ALLAGO</head>
+               </figure>
+            </p>
+            <p>THat lande of Allago is .v.C. myles great<g ref="char:EOLunhyphen"/>ter And gothe ayenſte the begynnynge of Arabien and there is that kyngdom Safale in this la<g ref="char:cmbAbbrStroke">̄</g>de Allago is the people clothed as aboue is marked / the were and bere for there clothes ſkynnes of wylde beſtes. The men bere clokes made of barkes of trees &amp; ledder to kyuer theyr members with. And the women kyuer theym with ſkynnes of beſtes. &amp; take vpon there hed<g ref="char:EOLhyphen"/>des for kerchers ſkynnes of oxe<g ref="char:cmbAbbrStroke">̄</g> or other beſtes alſo pyche the theyr mennes forhed lyke as me<g ref="char:cmbAbbrStroke">̄</g> pytche the ſhyppes / and there dwellynge is vn<g ref="char:EOLhyphen"/>der the erthe. There is many cowes. oxe<g ref="char:cmbAbbrStroke">̄</g> / great ſhepe and other fayre beſtes. This is on fayre &amp; luſty lande of good water &amp; ſwete herbes. This people hathe a ſwyfte haſty ſpeche. There is no money but of yron and that euery body take it for there ware they bere whyte ſtaues there we pyns is lange pykes and ſtones ther they caſte myghtly with. That Lande is ſo full of ſande y<hi rend="sup">t</hi> they muſte goo vpon brode trenchers that they falle not and ſynke. After that cometh men in<g ref="char:EOLhyphen"/>to the lande of arabyen.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:5"/>
+            <head>
+               <figure>
+                  <head>IN: ARABIA</head>
+               </figure> Arabia..</head>
+            <p>COmyng in Arabia ſawe we y<hi rend="sup">e</hi> people clo<g ref="char:EOLhyphen"/>thed lyke as here is figured ſtande. Loue this kyngdone hath be oon of the thre holy kyn<g ref="char:EOLunhyphen"/>gys. Item ther bynde they ther oxe ſon with A<g ref="char:EOLhyphen"/>rabie gold about ther hornes / and erys. And al<g ref="char:EOLunhyphen"/>ſo goldyn rynges aboute thyr legges. And for gold take they of marchau<g ref="char:cmbAbbrStroke">̄</g>des ſylky<g ref="char:cmbAbbrStroke">̄</g>g kerchers and lynen clothe. Item ther after ſewe now .v. yla<g ref="char:cmbAbbrStroke">̄</g>des. the fyrſt yland named Mo<g ref="char:cmbAbbrStroke">̄</g>ſabith. ſixty myles from Safalen. is leeid y<hi rend="sup">e</hi> towne Quiola that was fou<g ref="char:cmbAbbrStroke">̄</g>de of the kynges folke of porty<g ref="char:cmbAbbrStroke">̄</g>gal And they ſlewe there moche people and robbed the towne. And there without had there kynge
+<pb facs="tcp:6786:5"/> edyfyed on caſtell that is named ſeynt Iacobis caſtell there in lyeth a .C. bolde and hardy men that lyeth and kepeth it.</p>
+         </div>
+         <div type="part">
+            <p>
+               <figure/>
+            </p>
+            <p>THe ſeuente myles from Quiola lyeth the towne Bo<g ref="char:cmbAbbrStroke">̄</g>baſſa that they alſo byrned and
+<pb facs="tcp:6786:6"/> robbed that alſo there they gatte moche goodes From thens nowe .xxiiij. myle lyeth the great towne Melida and they befrendes / and there be many ſloueynes and fell people out of Ge<g ref="char:EOLhyphen"/>neen From Melinda it is .iiij. ſcore &amp; .x. myles to on Perſia there gowe they ouer the ſee. For by the towne Megha into the ylande Auxe<g ref="char:cmbAbbrStroke">̄</g>dia There is alſo one that hath be of y<hi rend="sup">e</hi> thre holy ky<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ges of the eeſt .C. myles into the Kyngdome of Canenor and there begyn the ſpyces to growe and from thens fare they forthe in to the great lande of great Indyen.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of great Indyen.<figure>
+                  <head>MAIOR INDIA</head>
+               </figure>
+            </head>
+            <p>THey gowe from Cananor into great In<g ref="char:EOLhyphen"/>dyen there the people goo all naked but y<hi rend="sup">e</hi>
+               <pb facs="tcp:6786:6"/> the kyuer there members with lynen cloth and and they be brounde blacke / with longe here and of tho women is not wryten but on kaute the ſee ſawe men manye meruelouſe people of manereren the women bere there chyldre<g ref="char:cmbAbbrStroke">̄</g> and theyr houſeholde ſtuffe. Here fynde men gyn<g ref="char:EOLhyphen"/>ger / peper / comeyn / and all manere of ſpyces / &amp; coſtely ſtones for lytell moneye. There be alſo many maner of frute fygges of good ſauyour .vij. ynches longe and .iij. ynches brode. There be bulfeldes and coyes but the coyes ſlepe they not / there groweth good wyne / muche honeye / ryſe / coſtely corne whyte as wete mele / Ther by ſtandeth the towne of Banderana and it is .vij myles into Callienten from thens is .xl. myles there men goo for all maner of ſpyces that men were wo<g ref="char:cmbAbbrStroke">̄</g>te to caray and conuey ouer the redde ſee thorowgh Alexander but nowe is there one newe way founde<g ref="char:cmbAbbrStroke">̄</g> ouer the the ſee in Calacute<g ref="char:cmbAbbrStroke">̄</g> is many folke out of ſeynt thomas lande y<hi rend="sup">t</hi> alſo be cryſtened<g ref="char:punc">▪</g> and folke of other landes and na<g ref="char:EOLhyphen"/>cyons they goo ouer into that kyngdome Kyn<g ref="char:EOLunhyphen"/>gryche Gutſchyn as hereafter ſta<g ref="char:cmbAbbrStroke">̄</g>des wryten.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of Gutſchin that Kyngedome.</head>
+            <pb facs="tcp:6786:7"/>
+            <p>
+               <figure/>
+            </p>
+            <p>ANd than ca<g ref="char:cmbAbbrStroke">̄</g> we in the kyngdome of Gut<g ref="char:EOLunhyphen"/>ſchyn and ther hath the kynge of portyn<g ref="char:EOLunhyphen"/>gale do make .ij. Caſteyles from here was the thre holy kynges. there groeth muche peper &amp; the ꝓpereſt ſtapell therof. That kyngdom Cole<g ref="char:cmbAbbrStroke">̄</g> is .xxiiij. myles from there / and there been ma<g ref="char:EOLhyphen"/>ny kryſtened men / we fynde alſo great Olyfa<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tes &amp; many dyuers maner and wo<g ref="char:cmbAbbrStroke">̄</g>ders beſtes and other thynges that men cannot wryghte all. gardey<g ref="char:cmbAbbrStroke">̄</g>es frutes is there muche gretter tha<g ref="char:cmbAbbrStroke">̄</g> in our landes of Europa. That ylande Mela<g ref="char:EOLhyphen"/>qua is from thens .viij.C. myles / There alſo is moche coſtely ſpyces. There is nowe .ij. yla<g ref="char:cmbAbbrStroke">̄</g>des the on is Bandan and therin groweth the clo<g ref="char:EOLhyphen"/>ues.
+<pb facs="tcp:6786:7"/> That other Tanagora or Narnaria and there groeth not no other wodde than whyte &amp; red ſandelen wodde / This is fortuned that for a bell of a glaſſe men may haue one handfull of peerles. In Gutſchin bere ſome tymes there kynge but that do the people of his courte and holde obedyance vnder theym one w<hi rend="sup">t</hi> a nother They do all there thynges all ſleyghtly For as as they be aſſembled in one gatherynge / than cryeth the capitayne I wyll ſowe / &amp; as the ſub<g ref="char:EOLhyphen"/>iectes here theyr capitayne crye ſowe tha<g ref="char:cmbAbbrStroke">̄</g> take they parte of / the ſede and no man ſayth the co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>trary and letteth the other lye and that takeche the lorde with out any body contrary ſaynge / &amp; ſo do they in all merchaundyſe. Forthe by that kyngdome Gutſhyn / Colum / Bandan / &amp; Na<g ref="char:EOLhyphen"/>garia .xxx. myles in Arſinia there hath the kyn<g ref="char:EOLhyphen"/>ge .xij. kynges vnder hym / and there lyeth bu<g ref="char:EOLhyphen"/>ryed ſeynt Thomas apoſtell.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:8"/>
+            <p>
+               <figure/>
+            </p>
+            <p>IN ſome of theſe aforſayde wrytten landes ben great and fayre frutes &amp; they be great<g ref="char:EOLunhyphen"/>ter than in theſe our landes of Europa In Illa mandra be great hygh trees for the people of y<hi rend="sup">t</hi> contrey hewe great ſteppes aboute to clyme vp in to the tree to gather the frutes that groweth there on for whan they be a thruſt to take there of. In Arſinia is great brode fygge Trees with great fygges well .vij. ynches longe and .iij. yn<g ref="char:EOLunhyphen"/>ches brode and the Fygge tre is ſo brode of brau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>che and leues that .xl. men may be hydde vnder the forſayd braunches and leues for the hete of the ſonne / and there for to reſte all to gather at theyr one pleaſure.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:8"/>
+            <p>
+               <figure/>
+            </p>
+            <p>WE haue in this vyage ſayled aboute the forth parte of the worlde for to reken fro<g ref="char:cmbAbbrStroke">̄</g> Luſſyngbore<g ref="char:cmbAbbrStroke">̄</g> whiche is ferre equinoccyall ſcher<g ref="char:EOLunhyphen"/>linie<g ref="char:cmbAbbrStroke">̄</g> .xxxix. grades &amp; on halfe ſo haue we ſayled ouer y<hi rend="sup">e</hi> linie equinocciall .l. grades that maketh xc. grades therfore they of Luſſbone is vnder y<hi rend="sup">e</hi> forſayde linie .xxxix. grade &amp; one halfe in the hy<g ref="char:EOLhyphen"/>gh hed of the hemels is the breyde of weſtes / ſo is them of Luſſbone to theſe folke to ſene the .l. grades is ouer the ſelfe lyne ſoth cornerwyſe .v. grades in perpe<g ref="char:cmbAbbrStroke">̄</g>diculer linia whiche linie as we ſtande ryght of y<hi rend="sup">e</hi> poynt the hemls hange vpon our hed and theſe folke in theyr ſydes or rybbes and woort ſet in the maner of on tryanghel <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on drycantyche cornard. therfore it muſt nedes be y<hi rend="sup">t</hi> the ſowth landes be te<g ref="char:cmbAbbrStroke">̄</g>pered w<hi rend="sup">t</hi> ſwete erthe for the northe wyndes can nat there blowe.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:9"/>
+            <pb facs="tcp:6786:9"/>
+            <p>
+               <figure/>
+            </p>
+            <p>AFter this maner of fourme is the Kynge of Gut<g ref="char:EOLhyphen"/>ſchyin borne with the nobleſte of his lande / And be<g ref="char:EOLunhyphen"/>fore hym is borne many inſtrume<g ref="char:cmbAbbrStroke">̄</g>tes of muſyke as tro<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pettes &amp; other and .iiij. of the nobleſte bereth the canapie ouer his hed leſt that the ſoon ſhuld burne hym / and this kynge is beloued of all his eſtates and co<g ref="char:cmbAbbrStroke">̄</g>mon people.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:10"/>
+            <head>
+               <figure/>¶ Of the .x. dyuerce criſtened nacions.</head>
+            <p>IT is to knowe that y<hi rend="sup">e</hi> people of cryſtindom is deuided and ben in .x. Nacyons. That is to vnderſtand the Latyne / Grekes / Indien / Ia<g ref="char:EOLunhyphen"/>cobites / neſtorijnes / moronites / Armenes / geor<g ref="char:EOLunhyphen"/>gianes / Surianes / mororabes / wherof y<hi rend="sup">e</hi> mooſt deyle is ketters and kyt of / of the holy Romes chyrche.</p>
+            <div n="1" type="nation">
+               <head>¶ The fyrſte nacyon.</head>
+               <pb facs="tcp:6786:10"/>
+               <figure/>
+               <p>FIrſte nacyon is the Latynes and they ha<g ref="char:EOLhyphen"/>ue to theyr lorde the Emperour of Almay<g ref="char:EOLunhyphen"/>ne and many Kynges as the kynge of caſtyly<g ref="char:EOLunhyphen"/>an / of Aragon / of portyngale / of nauaryen / and theſe kynges is for ſpaynnes nacyon In y<hi rend="sup">t</hi> na<g ref="char:EOLhyphen"/>cyon of the frenche lande is one kynge of Frau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ce and many dukes and Erles. In the nacio<g ref="char:cmbAbbrStroke">̄</g> of Italian is the kynge of Cicylian / the kynge of Naples and many dukes and Erles and there is alſo many lordſhyppes as Veneyſe Flore<g ref="char:cmbAbbrStroke">̄</g>ce ſeuen Ienuen.</p>
+               <pb facs="tcp:6786:11"/>
+               <p>IN the nacyon of Germanien is nowe ma<g ref="char:EOLhyphen"/>ny kynges with out the emperoure / as the Kynge of Englande / of Scotlande / of Vngeri<g ref="char:EOLunhyphen"/>en / of Boheme<g ref="char:cmbAbbrStroke">̄</g> / of Polen / of Denmarke / of ſwe<g ref="char:EOLhyphen"/>den / of Northwegen / of Dalmacyen / and there is many Dukes and Erles &amp;c. In that ylande of Sypers is the kynge of Sypers / All theſe a fore wryten is vnder the obeyiſau<g ref="char:cmbAbbrStroke">̄</g>ce or the chyr<g ref="char:EOLunhyphen"/>che of Rome.</p>
+            </div>
+            <div n="2" type="nation">
+               <head>¶ The ſeconde nacyon.</head>
+               <p>THe Grekes haue ſpyrytually the Patri<g ref="char:EOLhyphen"/>arcke of Conſtantynnoplen / &amp; many Ar<g ref="char:EOLhyphen"/>chebyſſhops / byſſhops / and abbottes. And in y<hi rend="sup">e</hi> temperalte haue they one Emperour and ma<g ref="char:EOLunhyphen"/>ny dukes and erles / and there is but fewe of the<g ref="char:cmbAbbrStroke">̄</g> that be cryſtened / For the Agarenen &amp; Turkes hath nowe the mooſt parte of Grekes / &amp; is not obedient to the chyrch of Rome. And they haue a great erre for they ſaye that the holy ghoſt ca<g ref="char:cmbAbbrStroke">̄</g> not of the ſone but alone of the fader. And they ſay alſo that there is no purgatory / that is all a yenſte our belefe.</p>
+            </div>
+            <div n="3" type="nation">
+               <head>¶ The thirde nacyon.</head>
+               <pb facs="tcp:6786:11"/>
+               <p>
+                  <figure/>
+               </p>
+               <p>THey of Indyen hath one prynce and that is pope Iohn<g ref="char:cmbAbbrStroke">̄</g> whoſe myghtynes &amp; ryche<g ref="char:EOLhyphen"/>dome amou<g ref="char:cmbAbbrStroke">̄</g>teth aboue all prynces of the world for he hath vnder hym .lxxij. kynges and as po<g ref="char:EOLunhyphen"/>pe Iohn<g ref="char:cmbAbbrStroke">̄</g> dayely rydeth he bere a fore hym one croſſe of wode for to thynke on at all tymes &amp; re<g ref="char:EOLunhyphen"/>member vpon the paſſions of Ihu<g ref="char:cmbAbbrStroke">̄</g> and to the ba<g ref="char:EOLhyphen"/>tayle doth he bere .xij. croſſes of golde made and ſet with precyouſe ſtones for his baners / in this lande is the body of ſeynt Thomas.</p>
+            </div>
+            <div n="4" type="nation">
+               <head>¶ The fourth nacyon.</head>
+               <pb facs="tcp:6786:12"/>
+               <p>IAcobyten named alſo of on ketter Iacob <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was be one dyſſyple of the Patryarche of Alexandryne / and this helde the one great land in Oryenten and Aſyen and is named that lan<g ref="char:EOLunhyphen"/>de of Mambrone and it is by Egypten and go the to Echyopen and into Indien to / and hathe vnder hym well .xl. kynges rychedom / theſe be kytte and chryſtened with a byrnynge yren for they branue the token of the holy croſſe in theyr forehed / vpon the breſte / vpon the arme / they co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>feſſe them to god alone and none preſtes / &amp; they ſay that in chriſto is alone the godhed without the manhod / &amp; ſome of them ſpeketh Caldeſche ſome Arabier / ſome other ſpeches after theyr la<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>gage of the lande / and theſe been condemned of the holy chyrche in that counſayll of Ceden.</p>
+            </div>
+            <div n="5" type="nation">
+               <head>¶ The fyfth nacyon.</head>
+               <p>THere be alſo Neſtorijne<g ref="char:cmbAbbrStroke">̄</g> named of the ket<g ref="char:EOLunhyphen"/>ter Neſtorinus that was one byſſhope of the byſſops of Co<g ref="char:cmbAbbrStroke">̄</g>ſtantynenoplen and they ſett ij. perſones in chriſto that is the Godhed and y<hi rend="sup">e</hi> perſones / and they forſake that maria is the mo<g ref="char:EOLunhyphen"/>der of god / but they beleue well of Ihu<g ref="char:cmbAbbrStroke">̄</g>. &amp; theyr wrytynge is in caldenſſher ſpeche and they ma<g ref="char:EOLunhyphen"/>ke the ſacrament in broune brede and there be great multytude of theym &amp; they dwell in Tar<g ref="char:EOLunhyphen"/>tarien
+<pb facs="tcp:6786:12"/> and in great Indyen / and theyr lande is as great as a thouſande of Italy / and theſe ket<g ref="char:EOLhyphen"/>ters be condamned in that thyrde counſayll of Epheſyn &amp; is departed of the holy Romes chyr<g ref="char:EOLunhyphen"/>che &amp; abyde in theyr opynion.</p>
+            </div>
+            <div n="6" type="nation">
+               <head>¶ The ſyxte nacyon.</head>
+               <p>BY the ketter Moren they be named Mo<g ref="char:EOLhyphen"/>roniten they ſay alone in chriſto is one vn<g ref="char:EOLunhyphen"/>derſtande and one wyll and thoſe dwell by Ly<g ref="char:EOLhyphen"/>bien in the la<g ref="char:cmbAbbrStroke">̄</g>de of Phenicen and there be great multitude and they be bolde and hardey men. and great warryars with the bowe / And they haue theyr byſſhops clothed as the Latynes w<hi rend="sup">t</hi> the byſſhops myter on his hed &amp; with the croy<g ref="char:EOLhyphen"/>ſers ſtaffe and rynges / Theſe hath ben ſome ty<g ref="char:EOLhyphen"/>me vnder the obeyiſſaunce of the chyrche of Ro<g ref="char:EOLunhyphen"/>me wha<g ref="char:cmbAbbrStroke">̄</g> Innocentius was pope / but afterwar<g ref="char:EOLhyphen"/>de cain they ayen in theyr opynion and there a byde in theyr opynyon.</p>
+            </div>
+            <div n="7" type="nation">
+               <head>¶ The ſeuenth nacyon.</head>
+               <pb facs="tcp:6786:13"/>
+               <p>ARmenuyten is alſo named for that they dwell in the lande of Armeneten nere vn<g ref="char:EOLhyphen"/>to Anthiochyen and there is whryttyn ſeruyce of the maſſes. &amp; theyr other tydes is all in theyr one comon ſpeche ſo that they all mey vnderſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>de it what they ſynge or rede / &amp; they haue theyr hed or fader to whome they do reuerence as we do the pope. And they faſte the lenton with gre<g ref="char:EOLunhyphen"/>atter deuocyon than we doo / for they ete in the lenton no fyſſhe / nor they drynke no wyue / but they ete fleſſhe vpon frydayes.</p>
+               <p>
+                  <figure/>
+               </p>
+            </div>
+            <div n="8" type="nation">
+               <pb facs="tcp:6786:13"/>
+               <head>¶ The eyght nacyon.</head>
+               <p>THis nacyon is named Georgidni of ſeynt George for they haue hym in theyr batel<g ref="char:EOLunhyphen"/>les for theyr patrone / and they dwell in the la<g ref="char:cmbAbbrStroke">̄</g>de of Oryenten / and they be fayer / luſty / and ſtro<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ge pepyll / and they be ſore a drad of the Medon perſſen Aſſiryen there they aboute dwelle And they haue theyr ſcyrpture in y<hi rend="sup">e</hi> Greekes ſpeche and they haue theyr ſacramentes as the Gre<g ref="char:EOLhyphen"/>kes / and the clarkes haue rounde crownes / and they ſeke the holy graue to Iheruſalem w<hi rend="sup">t</hi> open or ſpred baners. And they gyue the ſaraſons no trybute for the ſaraſons fereth thoſe folke very ſore / there women bere harneyſe lyke the men and they haue alſo beardes as y<hi rend="sup">e</hi> men and they bere vpon theyr heddes and vpon hye cubettes hye hattes and as the wryte to the Sodan tha<g ref="char:cmbAbbrStroke">̄</g> gyueth he them that they dyſſyre.</p>
+            </div>
+            <div n="9" type="nation">
+               <head>¶ The Nynthe nacion.</head>
+               <p>THe Suriane<g ref="char:cmbAbbrStroke">̄</g> is named after theyr towne Surie that is the gretteſt in all Surye<g ref="char:cmbAbbrStroke">̄</g> or Aſſyryen theyr ſcrypture &amp; ſeruyce of god in y<hi rend="sup">e</hi> Grekes ſpeche but they ſpeke ſaraſons ſpeche and they holde the manere of y<hi rend="sup">e</hi> grekes / and ha<g ref="char:EOLhyphen"/>ue byſſhoppes that in all thynges be obedyent and they make theyr ſacrament of browne bre<g ref="char:EOLunhyphen"/>de &amp; they haue the opynyon of the Grekes aye<g ref="char:cmbAbbrStroke">̄</g>
+                  <pb facs="tcp:6786:14"/> the Latynes there be ſome cryſtened that in the holy lande is named Samerytanes that were conuerted in the tyme that the apoſtels prethee but they vnderſtande the<g ref="char:cmbAbbrStroke">̄</g> nor well in the cryſte<g ref="char:cmbAbbrStroke">̄</g> beleue.</p>
+            </div>
+            <div n="10" type="nation">
+               <head>¶ The tenthe nacyon.</head>
+               <p>MOzoraben ſo called affter the late<g ref="char:cmbAbbrStroke">̄</g> for they holde &amp; vſe the maner of the cryſten of Ar<g ref="char:EOLhyphen"/>bien / and of theſe were wonte to be manye peo<g ref="char:EOLhyphen"/>ple in Affrijken and in Spaengnien but nowe is there lyttell in the tellyng / They haue i<g ref="char:cmbAbbrStroke">̄</g> theyr ſeruyce of god lateyne as we do / And they be vnder the obeyiſaunce of the chyrche of Rome. And the latynes prelates but in many thynges ben they dyuerſe departed for alſo the day hath xxiiij. houres / Alſo many tymes hymnes and pſalmes and other oraſouns haue they and ve<g ref="char:EOLunhyphen"/>rylonge / And that that y<hi rend="sup">e</hi> Latyns rede in the be<g ref="char:EOLhyphen"/>gynnyng of theyr ſeruyce that rede they in the mydle or in the laſte ende. And that ſacrame<g ref="char:cmbAbbrStroke">̄</g>t of the auter breketh ſome of them in .vij. partes &amp; ſome in .x. partyes / and theſe people be very de<g ref="char:EOLhyphen"/>uoute and they mareye but ones in theyr lyfe &amp; as the women hath loſte theyr fyrſt huſbond ſo
+<pb facs="tcp:6786:14"/> dothe they meddle no more with no man / but a byde fro thenſfourth in chaſtyte.</p>
+               <p>
+                  <hi>O</hi> For .ij. cauſes cometh the departynge of y<hi rend="sup">e</hi> cryſten nacyons. The fyrſte cauſe is that men in olde tyme myght the cryſten haue only haue generall conſiliu<g ref="char:cmbAbbrStroke">̄</g> / Therfore as the ketters ſtode vp ayen the cryſte<g ref="char:cmbAbbrStroke">̄</g> belefe ſo was there no body turned nor ſaught counſayll there ayen. The other cauſe was the ferſwynmygnes of y<hi rend="sup">e</hi> oppreſt pope of y<hi rend="sup">e</hi> ſchole of Rome that no meſſe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>gere nor lerned ſhulde to the kryſten thow that were come in ſeche lodyng / for had they do that they ſhulde haue be conuerted to the ryght be<g ref="char:EOLhyphen"/>lefe. Thorowſth whiche ryght belefe brynge vs to the hygheſt glorye the fader the ſone the holy ghoſte thre perſones and one god. Amen.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:6786:15"/>
+            <pb facs="tcp:6786:15"/>
+            <figure/>
+            <p>Oure wel belo<g ref="char:EOLhyphen"/>uyd frynde We late you vnder ſtande and kno<g ref="char:EOLhyphen"/>we of our lande And the maner of oure lyuinge &amp; of our people beeſtes and fow<g ref="char:EOLunhyphen"/>les. ¶ And you ſaye that we be<g ref="char:EOLunhyphen"/>leue not in god and praye not to hym as you do. So late we you vnderſta<g ref="char:cmbAbbrStroke">̄</g>de that we beleue in god the fader. in god the ſon<g ref="char:cmbAbbrStroke">̄</g>e. and in god the holy gooſte. The whyche be vnpartyble and one very god. and is allthy<g ref="char:cmbAbbrStroke">̄</g>ge myghty.</p>
+            <p>And alſo certefye yow with oure lettres ſealed and doo you knowelege of oure folke or people and of our lande. And yf there be ony thynge y<hi rend="sup">e</hi> we kan doo for you. ſende vs worde &amp; we ſhall
+<pb facs="tcp:6786:16"/> it doo with good herte &amp; wyll. And yf it pleaſe ony of you to come in our lande we ſhall gyue they in gold and ſyluer to thyr neceſſite / &amp; make them great lordis. and gyue to them alſo lande and good to lyue on. &amp; doo to hem worſhyp and honor. For the goodnes that we haue herde ſay of you. And we do you knowlege that we haue the richeſte crowne of the worlde as of golde &amp; ſyluer &amp; of precyous ſtones in great multitude And we haue alſo vnder vs mighty .xlij. kingꝭ<g ref="char:EOLunhyphen"/>domes and al good criſten people. and we kepe alſo the poure people with our almes alle that cometh be it ſtrenger or of oure owne people thorough the loue of almyghty god oure lorde Iheſu Criſte.</p>
+            <p>¶ Item Oure lande is parted in .iiij. For the landes of Indien / there be two. and in that gret<g ref="char:EOLunhyphen"/>teſt Indien is the body of ſeynt Thomas. And this ſame Indien is partiner of y<hi rend="sup">e</hi> coſte of orient for it lyeth beſyde a toure y<hi rend="sup">e</hi> whych is caalled ba<g ref="char:EOLunhyphen"/>bel / &amp; it id not ferre fro Babilonyen. And alſo that other parte of Indien is aboute Septe<g ref="char:cmbAbbrStroke">̄</g>try<g ref="char:EOLunhyphen"/>on. and there is great plenty of wyne / bredde &amp; all maner of vytayle</p>
+            <p>¶ Item aſo in our lande be gryffons / and it is a greate byrde and a myghty. for he wyll well cary in his neſte an ore / or an horſe for his yo<g ref="char:cmbAbbrStroke">̄</g>ge byrdes to ete. Alſo in Saxen is a towne whych is called Grounzwyk ther is one of the clawes y<hi rend="sup">t</hi> whych is well as great as an horn of an oxe.</p>
+            <pb facs="tcp:6786:16"/>
+            <figure/>
+         </div>
+         <div type="part">
+            <p>IN our la<g ref="char:cmbAbbrStroke">̄</g>de be alſo fow<g ref="char:EOLhyphen"/>les y<hi rend="sup">e</hi> whyche that haue the mayſtery of all birdes of the worlde / and haue a colour lyke y<hi rend="sup">e</hi> fyer / and his wyngis kyt lyke a raſour. and this byrdes ben called Ilerion. and in alle the worlde is nomore than two. &amp; they lyuen .iij. ſkore yere &amp; then<g ref="char:cmbAbbrStroke">̄</g>e they laye eggis and ſytte vpon theym .xl. dayes / &amp; as ſone as they haue yonges they flee awaye / fader and moder to the zee and ther they drowne theym ſelf. and alle tho byrdes y<hi rend="sup">t</hi> come ayenſt them do them company to the zee. and as ſone as the be drowned all the other byr<g ref="char:EOLunhyphen"/>des tourne ayen to the neſte there they yonge byrdes ben lefte / and gyue them mete &amp; drinke to the tyme that the can flee and nurter them ſelfe. &amp;c.</p>
+            <pb facs="tcp:6786:17"/>
+            <p>¶ Yet ben there other byrdes the whyche ben called Tygris / and they be ſo ſtronge that they wyll bere or cary in theyr neſte a man ſytting vpon an horſe all armyd fro the hede to y<hi rend="sup">e</hi> fote.</p>
+            <figure/>
+            <p>¶ Yet is in oure lande an other maner of people the whiche ete none other than rawe fleſhe. &amp; they care not yf it were of man or woman or of beeſtis &amp; alſo the care not of ther owne deth. and as ſone as there one of them dy<g ref="char:EOLunhyphen"/>eth the ere theym alle rawe / both there one fa<g ref="char:EOLhyphen"/>der or moeder. And they ſaye y<hi rend="sup">t</hi> mans fleyſhe is good and naturly to ete rawe / for they ſaye that they doe it for parte of penaunce for there ſynnes And they be alſo curſed of god / and they be called Gog and Magog And of them be no more than one maner of people of this worlde &amp; they ſhall be dyſtributed or parted thorough all the world whan Antechryſt ſhall come. and theſe ſame were the people or folke the whych that hadde put in pryſone or in holde the great kynge Alexander of Macedonien. But for all
+<pb facs="tcp:6786:17"/> that he wente his way And of this people ſhal<g ref="char:EOLhyphen"/>be no iugement at the dredefull day of dome ly<g ref="char:EOLunhyphen"/>ke the prophete ſayeth. ¶ Neſcio quis. &amp;c.</p>
+            <p>But neuertheles thonder and lytenynge ſhall come fro heuen and bourne theym all in poder And whan that we haue ony enemyes thanne gyue we theym lycence to put theym downe &amp; ete them that be ayenſſe vs and then make we them to tourne ageyne into there owne lande. For if they ſholde abyde longe w<hi rend="sup">t</hi> vs they ſhuld vndo vs all &amp; ete vs lyke as they do there owne propre folke.</p>
+            <figure/>
+            <p>¶ Yet is there a nother ſmale la<g ref="char:cmbAbbrStroke">̄</g>de in a parte of that ſame foreſt aforeſayde / and it is .xlij. dayes Iourneyes longe. And it is called Feminie the great. And in that ſame la<g ref="char:cmbAbbrStroke">̄</g>de there be thre Que<g ref="char:EOLunhyphen"/>nes without all other landes / thowe that holde<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:6786:18"/> there been of theſe quenes forſayde And whan theſe quenes ſhall goo to felde / then eche of the<g ref="char:cmbAbbrStroke">̄</g> hath .iij. hondered. M. wymen and all in har<g ref="char:EOLhyphen"/>neyſe / with out all the other women the whych that caray vytayle with carte horſe and alſo w<hi rend="sup">t</hi> olyfauntes. And theſe women be very manly in fytynge and hardy. ¶ And in this ſame lan<g ref="char:EOLhyphen"/>de may come no men but .ix. dayes in the yere and no lenger / and than they haue conuerſacio<g ref="char:cmbAbbrStroke">̄</g> and felyſſhyp with the men and nomore of the hole yere. For if the men there wolde abyde the women ſhulde them ſlee all.</p>
+            <p>¶ And this ſame lande is cloſed all aboute with a water called Cyphon comynge our of para<g ref="char:EOLhyphen"/>dyſe And in this ſame lande may come no man without a great ſhyp or a great barke.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the people named Pygnies.</head>
+            <pb facs="tcp:6786:18"/>
+            <figure/>
+            <p>ANd yet is there a nother ſmale lande and alſo another Ryuer called Pyconye that is .x. dayes iourneye longe / and .vij. brode and this people of this forſayde lande be not great / but they be lyke chyldre<g ref="char:cmbAbbrStroke">̄</g> of .vij. yere of age and they haue horſeys as great as a great dogge &amp; they be good cryſtened folke and they haue no warre ayenſte noman / But they haue warre ayenſte the fowles euery yere / whan they ſhall haue in there frute and corne And tha<g ref="char:cmbAbbrStroke">̄</g> the kyn<g ref="char:EOLunhyphen"/>ge putteth on his harneyſe. and tha<g ref="char:cmbAbbrStroke">̄</g> they fyght ayenſte the byrdes. And than there be ſlayn on bothe partyes many on / and alſo they be great labourers / and whan the fylde is don than the byrdes flee a waye fro them.</p>
+            <pb facs="tcp:6786:19"/>
+            <figure/>
+            <p>¶ And in our lande be alſo vnicornes and they been of the manere with blacke and grene / and theſe vnicornes ſlee many Lyons. and the Lyo<g ref="char:cmbAbbrStroke">̄</g> ſleeth the vnicorne with ſubtylnes. Whan the Vnicorne hath put hym to reſt at a tree / &amp; than cometh the Lyon and ronnyth aboute the tree and after hym tha<g ref="char:cmbAbbrStroke">̄</g> ronnyth the vnycorne and wolde fayne ſley hym / &amp; than he ronnyth hym ſelfe i<g ref="char:cmbAbbrStroke">̄</g>to the tree with his horne ſo harde that he cannot pull it out ageyne. than co<g ref="char:cmbAbbrStroke">̄</g>meth the Lyo<g ref="char:cmbAbbrStroke">̄</g> and hath the maſtery vpon the vnicorne.</p>
+            <p>¶ Item there is a nother parte of a foreſt therin dwelleth another maner of folke / and this peo<g ref="char:EOLhyphen"/>ple ben .xx. Cubettes of heythe But they were in tyme paſte to be of the heyth of .xl. Cubettes. And they haue nat the pore to come out of that deſerte or foreſte and all is thorowe the myghte of almyghty god. For if they ſholde come out by there ſtrength &amp; hardyneſſe the wolde co<g ref="char:cmbAbbrStroke">̄</g>quere all the worlde.</p>
+            <pb facs="tcp:6786:19"/>
+            <figure/>
+            <p>¶ In oure lande is alſo a byrde y<hi rend="sup">e</hi> whyche is called Phenix and is y<hi rend="sup">e</hi> fayreſt byrde of all y<hi rend="sup">e</hi> world &amp; there is nomore than one in all y<hi rend="sup">e</hi> cours of nature. and he ly<g ref="char:EOLunhyphen"/>ueth C. yere. and thenne flyeth he ſo hyghe that the ſonne ſett the fyre in his wynges / &amp; then<g ref="char:cmbAbbrStroke">̄</g>e cometh he don ayen to his neſt and there he burneth to pudre and of the aſſhes comyth a worme / &amp; within. C dayes after growyth there out another byrde as fayre as euer that other was.</p>
+            <p>¶ Item Alſo in oure lande is plenty of wyne bredde / fleſhe. And that is neceſſary for man<g ref="char:EOLhyphen"/>nys body</p>
+            <p>¶ Item In our lande maye come none venyn beeſte on that one ſyde</p>
+            <p>¶ Item Betwene oure lande and the Turkes lande is a ryuer ronnynge and is called Sydo<g ref="char:cmbAbbrStroke">̄</g> it commeth out of paradyſe of the erthe / and is full of precyous ſtones</p>
+            <p>¶ And alſo in oure lande ben ronnyge many ſmale riuers the whyche that come out of this forſayde riuer. and they alſo ben fulle of precy<g ref="char:EOLunhyphen"/>ous ſtones. As Yſmaraddus Iaſpis Saphyrꝭ Scobaſſus Dyamant Topaſius / Carbonkel.
+<pb facs="tcp:6786:20"/> Rubin. and yet more other they whyche I not all can reherce.</p>
+            <p>¶ Alſo in oure lande groweth on herbe and is called Parmanabel / and that ſame herbe is ſo myghty euer ſoo who that ſame herbe beryth a boute hym he maye co<g ref="char:cmbAbbrStroke">̄</g>iure the deuyll of helle and do hym ſaye what ſo euer he wyl axe of hy<g ref="char:cmbAbbrStroke">̄</g> and therfore the deuyll dare not come in to our lande.</p>
+            <p>Ite<g ref="char:cmbAbbrStroke">̄</g> alſo in our lande growith peper in foreſtis full of ſnakes and other venym beeſtes. &amp; wha<g ref="char:cmbAbbrStroke">̄</g> it is rype than ſende we for our folke and they put that fyre ther in / &amp; tha<g ref="char:cmbAbbrStroke">̄</g> they venym beeſtys flee awaye<g ref="char:punc">▪</g> than we gadder it &amp; caryed to oure houſes and waſſhed in two or .iij. waters / and than we drey it ayen / and alſo it waxed black &amp; good</p>
+            <p>¶ Item aboute this paſſage is a fonteyne or a conduyte / ſo who of this watere drinked .iij. ty<g ref="char:EOLhyphen"/>mes he ſhall waxe yonge / and alſo yf a man ha<g ref="char:EOLunhyphen"/>ue had a ſykenes .xxx. yere and drynked of this ſame water he ſhall therof be hole and ſonde.</p>
+            <p>And alſo as a man therof drinked hym ſemeth that he had occupyed the beſte mete and drinke of the worlde. and this ſame fonteyne is full of the grace of the holy gooſt. &amp; who ſowe in this ſame water waſſhed his body he ſhall become yonge of .xxx. yere.</p>
+            <figure/>
+            <p>¶ Item In our lande is alſo a zee very peruuly<g ref="char:EOLunhyphen"/>ous / and there can we ha<g ref="char:EOLhyphen"/>ue noo paſſage with noo maner of ſhyppyng and than do we vs cary there ouer with our gryffous.</p>
+            <p>¶ Item at that one ſyde of this zee ronnyth a ſmale ryuere and therin be many precyous ſtones. and alſo ther growyth a certen herbe that is good to all maner of me<g ref="char:EOLhyphen"/>dycyne.</p>
+            <p>¶ Alſo ye ſhall vnderſtande that betwene vs &amp; the Iewes ro<g ref="char:cmbAbbrStroke">̄</g>nyth a great ryuer that is full of precyous ſtones and it is ſo ſtronge in here ron<g ref="char:EOLunhyphen"/>nyng y<hi rend="sup">t</hi> noman ther ouer can paſſe / excepte y<hi rend="sup">e</hi> ſa<g ref="char:EOLunhyphen"/>terdaye / &amp; tha<g ref="char:cmbAbbrStroke">̄</g> parted ſhehere &amp; toke w<hi rend="sup">t</hi> here all that ſhe fyndeth in here waye. And this ſame lande moſte we ſtro<g ref="char:cmbAbbrStroke">̄</g>gely kepe for oure ennemy<g ref="char:EOLunhyphen"/>es. an vp theſe coſtes haue we .xlij. ſtronge caſ<g ref="char:EOLhyphen"/>tels none ſtronger in y<hi rend="sup">e</hi> world. &amp; ben well kepte of people. To vnderſtande .x.M. knyghtes on horſbacke .vi.M. Croſſe bowes .xv.M. longe bowes. &amp; .xl.M. othere men on horſbacke well
+<pb facs="tcp:6786:21"/> armed. y<hi rend="sup">t</hi> whyche theſe Caſtels haue in kyping by cauſe that the great kynge of Iſrahel ſhall not ther paſſe with his people. For he is twyes as ſtro<g ref="char:cmbAbbrStroke">̄</g>ge as I am. And his lande is twyes as grete as all Cryſtence and turkey. For he hath in his kepynge the ſeconde parte of the worlde And the great kynge of Iſrahel hath vnder hy<g ref="char:cmbAbbrStroke">̄</g> iij.C. kynges .iiij.M. princes. duces. erles. ba<g ref="char:EOLunhyphen"/>ro<g ref="char:cmbAbbrStroke">̄</g>s knyghtes / ſquyers without nombre. and all theſe be ſubgette to the great kynge of Iſra<g ref="char:EOLunhyphen"/>hel. But yf he myght paſſe ouer this forſayde ryuer with his people they ſholde ſlee both cry<g ref="char:EOLunhyphen"/>ſten and turkes. And ye ſhall knowe that we all ſaterdaye late paſſe .viij.C. or M. men for beye ſuche manere good or marchaundyſe as they wyll haue. but we late them not come w<hi rend="sup">t</hi> in y<hi rend="sup">e</hi> wallis of thys caſtels. for they bye it with out y<hi rend="sup">e</hi> walles of thys fortreſſes. and they paye ther marchaundyſes with platis of ſiluer or of gold for they haue none other money. &amp; whan they haue don ther beſynes they tourne home ayen in theyr owne lande. and theſe forſayde caſtels be ſete to gyder within a bowe ſhotte.</p>
+            <p>And ye ſhall vnderſtande that within a myle of theſe caſtels is a great Cite and a fayre and it is the ſtrongeſt of all the worlde. the whyche cite is in our kepyng of one of our kyngis. and he receyueth tribute of the great kyng of Iſra<g ref="char:EOLunhyphen"/>hel. And alſo gyueth vs euery yere .ij.C. hor<g ref="char:EOLunhyphen"/>ſes laden w<hi rend="sup">t</hi> golde / ſyluer / and precyous ſtones.
+<pb facs="tcp:6786:21"/> Except alle charges and coſtes that men doth in the cyte and in thyſe forſayde caſtels. And whan that we haue warre ayenſt them / than ſlee we them alle and late noman alyue. &amp; ther<g ref="char:EOLunhyphen"/>fore they wyll kepe no warre ayenſte vs. and the wymmen of the Iewes be very fayre none fayrer in erth nowe a dayes lyuinge. And by this forſayde ryuer is a zee ther noman maye paſſe / but wha<g ref="char:cmbAbbrStroke">̄</g> the wynde blowyth fro benethe ſtrongely than parted ſhe here / and thanne the paſſe with great haſt. and than they take with hy<g ref="char:cmbAbbrStroke">̄</g> all maner of precious ſtones. but they may ſelle none therof for that wee haue taken ther<g ref="char:EOLhyphen"/>of our choſe.</p>
+            <p>¶ In a parte of our lande is an hylle there no<g ref="char:EOLhyphen"/>man maye dwelle for hete of the ſonne<g ref="char:punc">▪</g> &amp; there bee wormes many on without fyre can not lyue. And by this ſame hylle we kepe .xl.M. people that no thynge ells but make fyre / and wha<g ref="char:cmbAbbrStroke">̄</g> this wormes feele the fyre than thei come oute of the erthe and goo in too that fyre. and there they ſpynne lyke the wormes y<hi rend="sup">t</hi> the ſylke ſpy<g ref="char:cmbAbbrStroke">̄</g>neth And of that ſame ſpynnyng we make our clotynge that we were on feſte dayes. and whan they be foule / tha<g ref="char:cmbAbbrStroke">̄</g> they be caſt in to y<hi rend="sup">e</hi> fyer &amp; they becom as fayre as euer they were afore</p>
+            <figure/>
+            <p>¶ And ye ſhall alſo knowe that there be dyuers of people of fa<g ref="char:EOLunhyphen"/>ſon in oure lande / alſo there be people that haue the body of a man &amp; the hede lyke a dogge and they be good takers of fyſ<g ref="char:EOLunhyphen"/>ſhe. and they be good to vnder<g ref="char:EOLunhyphen"/>ſtande of theyre ſpeche. &amp; they wyll goo in to the zee a hole da<g ref="char:EOLunhyphen"/>ye longe to the tyme that they haue take<g ref="char:cmbAbbrStroke">̄</g> ſuche as they wolde haue / and than y<hi rend="sup">e</hi> come ayen charged with fyſ<g ref="char:EOLunhyphen"/>ſhe. and bere them in to y<hi rend="sup">e</hi> houſes / for they haue there dwellinge places vnder erthe. and then<g ref="char:cmbAbbrStroke">̄</g>e take we part of there fyſſhes that vs beſte ly<g ref="char:EOLunhyphen"/>keth<g ref="char:punc">▪</g> and they do great harme among our bee thow y<hi rend="sup">t</hi> be wylde. and they fyghte alſo ayenſte our archers. &amp;c.</p>
+            <p>¶ In oure lande is alſo one manere of byrdes and laye ther eggis in the zee .xxi. and ther out growen yonge byrdes<g ref="char:punc">▪</g> and tha<g ref="char:cmbAbbrStroke">̄</g> the flee away and we take ſomtyme of they<g ref="char:cmbAbbrStroke">̄</g> for they bee good for to ete wha<g ref="char:cmbAbbrStroke">̄</g> they be yonge For yf theyr were ony man that hathe loſt his nature and ete of this ſame byrde he ſholl it gete ayen and becom as ſtronge as euer he was afore.</p>
+            <pb facs="tcp:6786:22"/>
+            <figure/>
+            <p>¶ ye ſhall vnderſtande alſo as we goo to fylde than put we our lande in the kepyng of the Pa<g ref="char:EOLunhyphen"/>triarche of ſeynt thomas. And whan we pece<g ref="char:EOLunhyphen"/>ſably ryde than do we bere afore vs a croſſe of wodde in worſhyp of oure lorde Iheſu Cryſte. Alſo in the incomynge of euery cyte ſtande .iij. croſſes made of wodde / for to remembre y<hi rend="sup">e</hi> paſ<g ref="char:EOLhyphen"/>ſio<g ref="char:cmbAbbrStroke">̄</g> of our lord Iheſu cryſte. And whan we ryde peceſably than do we alſo bere afor vs a baſyn full of erthe to remembre y<hi rend="sup">t</hi> we be come of erthe and that we ſhall waxe erthe ayen. and we do alſo bere for vs another baſyn full of fyne gold to a token that wee be the nobleſte &amp; mightyeſt kyngis of all the worlde.</p>
+            <p>¶ There is alſo in our lande noman ſo hardy that dare breke his wedloke.. but yf he dyde he ſholde be inco<g ref="char:cmbAbbrStroke">̄</g>tynent be burnyd. For our lorde hym ſelf hath ordyned wedlok therfore it ſhold be kept by reaſon yf tbat we louyd oure lorde Iheſu Cryſte. For it is one of the ſacramentes of the holy chyrche</p>
+            <p>¶ Alſo there dare noman make a lye in oure
+<pb facs="tcp:6786:23"/> lande. for of he dyde he ſholde incontynent bee ſleyn &amp; we be feythful in oure ſaying &amp; doying ¶ Alſo ye ſhall vnderſtand that we euery yere goo vyſite the holy body of the prophete dany<g ref="char:EOLunhyphen"/>el in oure foreſt / and we take with vs .xM. cler<g ref="char:EOLunhyphen"/>kis and as many knyghtys. and .CC. caſtels. made vpon Olyphantes / fore to kepe vs fro y<hi rend="sup">e</hi> dragons y<hi rend="sup">e</hi> whyche haue .vij. hedes. the whych that haue theyr dwellynge in that foreſt.</p>
+            <p>¶ And there bee alſo in that ſame place dates y<hi rend="sup">e</hi> winter and ſomer hange on the trees fayr and grene. And y<hi rend="sup">e</hi> foreſte is great a .C. &amp; .xxx. dayes iourney. and y<hi rend="sup">e</hi> .ij. patriarches ben before vs at table for they haue the myght of the pope of rome. And we haue twyes as many abbotes i<g ref="char:cmbAbbrStroke">̄</g> our lande as there be dayes in a yere .xv. more And euerich one of them cometh ones in y<hi rend="sup">e</hi> yere and ſaythe maſſe vpon ſaint Thomas auter. And I my ſelf ſeye alſo maſſe in the grete feſtis dayes of y<hi rend="sup">e</hi> yere. and ther for I am called pope Iohn<g ref="char:cmbAbbrStroke">̄</g>. For I priſte after the outſhewyng of ſa<g ref="char:EOLunhyphen"/>crifice of the auters. &amp; kinge after outſhewing of Iuſticie. ¶ And I pope Iohn<g ref="char:cmbAbbrStroke">̄</g> was halowid afore I was borne. for oure lorde ſende his an<g ref="char:EOLunhyphen"/>gell to my fader and ſayde to hym make a pal<g ref="char:EOLhyphen"/>lays the whyche ſhall be of the grace of god and a chamber of that paradyſe for your ſon<g ref="char:EOLhyphen"/>ne comynge For hi ſhall be the gretteſt kynge of the worlde. and he ſhalle a longe tyme lyue. So who that in this pallays comyth he ſhall
+<pb facs="tcp:6786:24"/> haue no hongre nor thryſte. &amp; he ſhall not deye and as ſone as my fader was a wakyd he was very mery / and inco<g ref="char:cmbAbbrStroke">̄</g>tynent he began to make this pallays lyke ye ſhall here. At fyrſt of y<hi rend="sup">e</hi> inco<g ref="char:EOLunhyphen"/>mynge of this pallays is made of criſtall &amp; the couerynge of it is of precious ſtones and with in realy wrought with ſterres lyke yf it were y<hi rend="sup">e</hi> heuen. &amp; that pauing is alſo of criſtall &amp; within this ſame pallays be none wy<g ref="char:cmbAbbrStroke">̄</g>dowes. &amp; within this ſame pallays be .xxiiij. pyllers of fyne gold &amp; of precyous ſtones of all maner ſortes. &amp; ther am I at great feſte dayes of the yere and ſeynt Thomas prechyth i<g ref="char:cmbAbbrStroke">̄</g> middell of this pallays to the people. And whithin this ſame pallays is a conduyte or a fonteyne is lyke wyne in dryn<g ref="char:EOLhyphen"/>ky<g ref="char:cmbAbbrStroke">̄</g>ge / ſo who thereof drincketh he deſyred none other mete nor drinke and noman can telle fro whens it cometh or whyther it gothe. Alſo ther is another great merueyll i<g ref="char:cmbAbbrStroke">̄</g> this ſame pallays whan we ſhall goo to our dyner / ſo is there no maner of mete made redy for vs / not ther is no maner of inſtrume<g ref="char:cmbAbbrStroke">̄</g>tes to make mete redy with all. but there comith before vs all maner of de<g ref="char:EOLunhyphen"/>lycious mete / that comyth there thoroughe the holy gooſt. And it is not wel poſſyble to wrytte all maner of goodnes they whiche y<hi rend="sup">t</hi> be in oure lande. And ye ſhall vnderſtande that we writte nothynge to you but that trewe is.. For if we ſholde wryte lyes to you / god and ſey<g ref="char:cmbAbbrStroke">̄</g>t thomas ſholde punyſſhe vs / for we ſholde leſe all our dig<g ref="char:EOLunhyphen"/>nyte and oure worſhypp.</p>
+            <pb facs="tcp:6786:24"/>
+            <p>And we praye you that ye wyl writte vs ayen with the berer of this lettre. and ſende to vs a<g ref="char:EOLhyphen"/>geyn a good knyght of y<hi rend="sup">e</hi> generacyon of frau<g ref="char:cmbAbbrStroke">̄</g>ce</p>
+            <p>And we praye the kynge of Fraunce that he wyll vs recommaunde to the myghty kyng of Englande. and alſo to all other ky<g ref="char:cmbAbbrStroke">̄</g>ges the why<g ref="char:EOLunhyphen"/>che y<hi rend="sup">t</hi> dwelle beyonde the zee thow that be<g ref="char:cmbAbbrStroke">̄</g> cry<g ref="char:EOLunhyphen"/>ſtened and we praye god that he you wyl gyue the grace of the holy gooſt Amen. Written in oure holy pallays in the byrth of my ſelfe .v. ho<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>dred. and ſeuen</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Emprenteth by me Iohn<g ref="char:cmbAbbrStroke">̄</g> of Doeſborowe:.</p>
+            <p>
+               <figure>
+                  <head>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </head>
+               </figure>
+            </p>
+            <pb facs="tcp:6786:25"/>
+            <pb facs="tcp:6786:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
